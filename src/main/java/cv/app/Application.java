@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+//$ gradle build && java -jar build/libs/cv-1.0.jar
 @SpringBootApplication
 @RestController
 public class Application {
