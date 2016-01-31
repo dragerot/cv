@@ -109,8 +109,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46034816">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.39458415">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -1485,7 +1485,7 @@
       <option name="number" value="Default" />
       <updated>1454272311644</updated>
       <workItem from="1454272321348" duration="2052000" />
-      <workItem from="1454274591946" duration="7625000" />
+      <workItem from="1454274591946" duration="7955000" />
     </task>
     <task id="LOCAL-00001" summary="Teste at det funker">
       <created>1454278711271</created>
@@ -1505,11 +1505,17 @@
       <option name="project" value="LOCAL" />
       <updated>1454280913986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Satt stage til false for å unngå at det sendes til Docker portal">
+      <created>1454283231342</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1454283231342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9677000" />
+    <option name="totallyTimeSpent" value="10007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1204" height="682" extended-state="0" />
@@ -1550,7 +1556,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste at det funker" />
     <MESSAGE value="Teste at det funker 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste at det funker 2" />
+    <MESSAGE value="Satt stage til false for å unngå at det sendes til Docker portal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Satt stage til false for å unngå at det sendes til Docker portal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1603,8 +1610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46034816">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.39458415">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding />
         </state>
       </provider>
