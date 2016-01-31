@@ -21,7 +21,8 @@ buildscript {
 group = 'toregard'
 
 task buildDocker(type: Docker, dependsOn: build) {
-	push = true
+	push = false
+
 	applicationName = jar.baseName
 	dockerfile = file('src/main/docker/Dockerfile')
 	doFirst {
