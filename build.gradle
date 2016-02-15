@@ -49,12 +49,13 @@ repositories {
 
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-devtools')
-	compile('org.springframework.boot:spring-boot-starter-freemarker')
-	compile('org.springframework.boot:spring-boot-starter-jersey')
-	compile('org.springframework.boot:spring-boot-starter-redis')
+//	compile('org.springframework.boot:spring-boot-devtools')
+//	compile('org.springframework.boot:spring-boot-starter-freemarker')
+//	compile('org.springframework.boot:spring-boot-starter-jersey')
+//	compile('org.springframework.boot:spring-boot-starter-redis')
 	compile('org.springframework.boot:spring-boot-starter-web')
-	testCompile('org.springframework.boot:spring-boot-starter-test') 
+//	testCompile('org.springframework.boot:spring-boot-starter-test')
+	testCompile("junit:junit")
 }
 
 
