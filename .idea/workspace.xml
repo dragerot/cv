@@ -51,7 +51,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__redis_clients_jedis_2_7_3.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/toregardcv.iml" afterPath="$PROJECT_DIR$/toregardcv.iml" />
     </list>
     <list id="0e5276dc-a19c-44c2-9d6c-7bd5c5e95922" name="New changelist" comment="!">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" />
@@ -160,12 +159,12 @@
     <favorites_list name="toregardcv" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36594912">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.56198347">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -663,8 +662,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="42" />
+    <option name="x" value="-26" />
+    <option name="y" value="33" />
     <option name="width" value="1059" />
     <option name="height" value="649" />
   </component>
@@ -693,6 +692,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -768,8 +769,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1588,7 +1587,8 @@
       <workItem from="1455568375208" duration="144000" />
       <workItem from="1455568553466" duration="107000" />
       <workItem from="1455568697960" duration="6733000" />
-      <workItem from="1455756951758" duration="502000" />
+      <workItem from="1455756951758" duration="846000" />
+      <workItem from="1455757969915" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="Teste at det funker">
       <created>1454278711271</created>
@@ -1632,14 +1632,20 @@
       <option name="project" value="LOCAL" />
       <updated>1455574342868</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="push to docker hub">
+      <created>1455757562076</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1455757562076</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32404000" />
+    <option name="totallyTimeSpent" value="33106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="42" width="1059" height="649" extended-state="0" />
+    <frame x="-26" y="33" width="1059" height="649" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1687,7 +1693,8 @@
     <MESSAGE value="Teste at det funker 2" />
     <MESSAGE value="Satt stage til false for å unngå at det sendes til Docker portal" />
     <MESSAGE value="Port 8022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Port 8022" />
+    <MESSAGE value="push to docker hub" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to docker hub" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1698,6 +1705,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1840,7 +1855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2994129">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1848,7 +1862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2994129">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1861,8 +1874,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36594912">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.56198347">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
         </state>
       </provider>
